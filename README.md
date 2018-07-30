@@ -20,11 +20,11 @@ To update instagram-scraper:
 $ pip install instagram-scraper --upgrade
 ```
 Alternatively, you can clone the project and run the following command to install:
-
+Make sure you cd into the *instagram-scraper-master* folder before performing the command below.
 ```
 $ python setup.py install
 ```
-Make sure you cd into the *instagram-scraper-master* folder before performing the above command.
+
 
 Usage
 -----
